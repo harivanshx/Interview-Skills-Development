@@ -318,6 +318,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 11.[Which consumes more memory virtual DOM or Real DOM?](./react.md/11.md)
 
+12.[Is lazy function supports named exports?](./react.md/1.md)
+
 ## Common Job Interview Questions
 
 1.Tell me about yourself
